@@ -1,0 +1,273 @@
+@font-face {
+  font-family: Averta;
+  src: url(AvertaRegular.ttf);
+}
+
+body{
+  font-family: Averta;
+  background-color: white;
+}
+nav{
+  background-color: #385180;
+  color: white;
+
+}
+
+#hero {
+  background-color:#385180;
+  color: white;
+  align-items: center;
+}
+
+.row{
+  padding: 0;
+  margin: 0;
+}
+
+#hero .col{
+  padding: 30px;
+  align-items: center;
+}
+
+.vl {
+  border-left: 1px solid darkblue;
+  height: 100px;
+}
+
+.icon{
+  height: 50%;
+  width:50%;
+}
+
+#middle{
+  text-align: center;
+}
+
+#hero h2{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#hero ul{
+    list-style: none;
+}
+
+
+#section2{
+  color: #385180;
+
+  padding: 20px;
+}
+
+#section2 h3{
+  font-size: 25px;
+
+}
+
+#app {
+  padding: 20px 0;
+}
+
+#app h1, p {
+  text-align: center;
+}
+
+#chart {
+  width: 100%;
+  height: 400px;
+}
+
+circle {
+  stroke-width: 5px;
+  fill: white;
+}
+path, circle {
+  stroke: blue;
+}
+.chart-tooltip{
+  padding: 10px;
+}
+
+
+#send-money h2{
+  color: #385180;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+
+}
+
+#send-money .card-deck{
+  padding: 20px;
+  margin: 0px;
+  text-align: center;
+}
+
+#send-money .card-deck .card-title{
+  font-weight: bold;
+  color:#385180;
+}
+
+#send-money .card-deck .card-text{
+  color: black;
+}
+
+#global-support{
+  text-align: center;
+}
+
+#global-support h2{
+  color: #385180;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#global-support p{
+  color: black;
+  margin: auto;
+  padding-left: 20px;
+}
+#global-support button{
+  margin: auto;
+}
+
+#world {
+  text-align: center;
+}
+
+#world{
+  margin-top: 30px;
+}
+
+#world b{
+  font-size: 30px;
+}
+
+#world ul{
+  list-style: none;
+  text-align:
+
+}
+
+
+/*  */
+#reviews {
+  text-align: center;
+  padding: 30px;
+}
+
+#reviews h2{
+  color: #385180;
+  margin: auto;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 35px;
+
+}
+
+#reviews p{
+  color: black;
+  margin: auto;
+  padding-left: 20px;
+}
+
+#reviews .checked {
+  color:orange;
+}
+
+
+#reviews .content{
+  font-weight: bold;
+  color: #385180;
+}
+
+#reviews .author,.text-muted{
+  font-size: 16px;
+}
+
+#reviews .author{
+  color: grey;
+}
+
+#get-app{
+  margin: auto;
+  text-align: center;
+}
+
+#get-app h2{
+  color: #385180;
+  margin-top: 30px;
+
+}
+
+#get-app .checked{
+  color: orange;
+}
+
+#get-app .store{
+  width:80%;
+  height:80%;
+}
+
+#get-app .mobile{
+  height:90%;
+  width:70%;
+}
+
+#aims{
+  margin: auto;
+
+}
+
+#aims h2{
+  color:white;
+}
+
+#aims ul{
+  list-style: decimal;
+}
+
+#aims button{
+  margin: auto;
+}
+
+
+#earth p{
+  font-size: 20px;
+
+
+}
+
+#earth p span{
+  color: #90EE90;
+}
+
+#footer{
+  margin: auto;
+  padding-top: 60px;
+  background-color: #436092;
+  color: white;
+  text-align: center;
+}
+
+#footer ul{
+  padding: 0;
+
+}
+
+#footer ul li{
+  text-decoration: underline;
+}
+
+#footer .col{
+  padding: 0;
+}
+
+#footer i{
+  font-size: 25px;
+}
+
+#footer-end{
+  text-align: center;
+}
